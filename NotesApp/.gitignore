@@ -1,0 +1,26 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Database configuration
+# Uncomment if you have sensitive information in your DB configuration
+# src/db/DBConnection.java
+
+# Virtual machine crash logs
+hs_err_pid*

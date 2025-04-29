@@ -81,7 +81,7 @@ java -cp bin:mysql-connector-java.jar main.Main
 ## Screenshots
 
 ### Main Application Window
-![Main Application Window](assets/images/main-window.png)
+![Main Application Window](![Image](https://github.com/user-attachments/assets/f7059de3-4078-4792-99b1-1501197a9697))
 
 ### Creating a New Note
 ![Creating a New Note](assets/images/new-note.png)

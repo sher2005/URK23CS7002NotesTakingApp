@@ -102,6 +102,8 @@ java -cp bin:mysql-connector-java.jar main.Main
 
 ![Success Message](https://github.com/user-attachments/assets/ec4ecf45-ee14-48aa-b0c9-731c0d65f5ca)
 
+### Database 
+![Workbench](https://github.com/user-attachments/assets/e1897780-05e8-47d9-a251-8f1242b7373a)    
 
 ## Future Enhancements
 

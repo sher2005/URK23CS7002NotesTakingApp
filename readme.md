@@ -110,11 +110,3 @@ java -cp bin:mysql-connector-java.jar main.Main
 * Rich text formatting
 * Search functionality
 * Export/import notes
-
-## License
-
-*[License information would be added here]*
-
-## Contributors
-
-*[Contributor information would be added here]*

@@ -84,10 +84,24 @@ java -cp bin:mysql-connector-java.jar main.Main
 ![Main Application Window](https://github.com/user-attachments/assets/f7059de3-4078-4792-99b1-1501197a9697)
 
 ### Creating a New Note
-![Creating a New Note](assets/images/new-note.png)
+![Creating a New Note](https://github.com/user-attachments/assets/e98d26e3-564b-48f2-a6f9-031cd8f8a285)
+
+![Typing in..](https://github.com/user-attachments/assets/04177c23-0496-4400-9d84-223742c8b3ff)
+
 
 ### Editing an Existing Note
-![Editing a Note](assets/images/edit-note.png)
+![Editing an Existing Note](https://github.com/user-attachments/assets/0aeff8a3-3a0c-460d-bc1d-ab22a8da04a7)
+
+
+### Saving a Note
+![Saving a Note](https://github.com/user-attachments/assets/6f87353b-e81d-4633-a3d3-fad63e97482f)
+
+
+### Deleting a Note
+![Deleting a Note](https://github.com/user-attachments/assets/b27e2672-105f-443c-b4f0-27ef9dae18b1)
+
+![Success Message](https://github.com/user-attachments/assets/ec4ecf45-ee14-48aa-b0c9-731c0d65f5ca)
+
 
 ## Future Enhancements
 
